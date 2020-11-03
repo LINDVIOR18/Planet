@@ -1,0 +1,27 @@
+1. B. public abstract class Canine { public Bark speak() { } }
+
+2. E. Compilation fails.  Nu se poate accessa in cazul dat methoda ce este de tip final.
+
+3. E. Compilaion fails. Trebuie initializat constructorul... in uram editarii se va afisa D
+
+4. A. x2.do2();
+
+5. B. x = 43 or D. Compilation fails. paremise nu e declarat x.
+
+6. C. int y = 11;
+
+7. B. -c
+
+8. b) Side Object Tail Side
+
+9. b)  In Base.foo()
+       In Derived.bar()
+
+10. ⦁ The program prints the following: in catch -> in finally ->.
+
+11. D. four one three two
+
+12. ⦁ class CI12 extends C implements I1, I2 {}
+
+
+
